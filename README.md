@@ -1,0 +1,1 @@
+These are just very simple scripts to do everday work. Most of these are Python implementations. Applications already exist to do many of the jobs that these scripts do, but these have been written to tailor the needs of some specific applications.
